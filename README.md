@@ -1,2 +1,11 @@
-# helloworld
-The "Hello World" program is the simplest program you can write in any programming language. Its primary purpose is to print the phrase "Hello, World!" to the screen or console. This program is often used as the first step in learning a new programming language because it demonstrates basic syntax, structure, and how to output text.
+# Hello World
+
+## Description
+This is a simple program that prints "Hello, World!" to the console. It is often used as an introductory exercise for beginners to understand the basic syntax of a programming language and to verify that the programming environment is correctly set up.
+
+## Usage
+To run this program, you need to have a compatible compiler or interpreter installed for the programming language used.
+
+### Example (Python)
+```bash
+python hello_world.py
